@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+# CocoaPods analytics sends network stats synchronously affecting flutter build latency.
+# Disable this in CI environments.
+ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+
+# Prevent Cocoapods from embedding a second copy of Flutter.
+use_frameworks!
+
+# Load the Flutter podspec from the Flutter SDK
+flutter_root = File.expand_path('..', __dir__) + '/Flutter'
+load File.join(flutter_root, 'Flutter', 'flutter_export_ios.podspec')
+
+target 'Runner' do
+  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+end
