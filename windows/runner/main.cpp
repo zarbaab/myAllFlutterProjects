@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"quiz_app", origin, size)) {
+=======
+  if (!window.Create(L"xylophone", origin, size)) {
+>>>>>>> 1b346027f2c3c48df58848b560bf4678d5ada26e
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

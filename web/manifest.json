@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "quiz_app",
     "short_name": "quiz_app",
+=======
+    "name": "xylophone",
+    "short_name": "xylophone",
+>>>>>>> 1b346027f2c3c48df58848b560bf4678d5ada26e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
