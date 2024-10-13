@@ -81,8 +81,7 @@ Welcome to **Xylophone by Zarbaab**! This is an interactive and educational xylo
 ## Features
 
 - **Interactive Keys**: Play colorful musical keys and enjoy different sounds.
-- **Multiple Themes**: Switch between two different color and sound themes for a unique experience.
-- **Customization**: Change the color and sound of each key manually.
+
 - **Responsive Design**: Optimized for various screen sizes, from mobile phones to tablets.
 
 ## Getting Started
@@ -111,10 +110,7 @@ Welcome to **Xylophone by Zarbaab**! This is an interactive and educational xylo
 
 ## Usage
 
-1. **Play the xylophone**: Tap on the colored keys to produce different notes.
-2. **Switch themes**: Tap the "Change Global Theme" button to toggle between two distinct color and sound themes.
-3. **Customize keys**: Manually change the color and sound of individual keys to create a personalized experience.
-
+ **Play the xylophone**: Tap on the colored keys to produce different notes.
 ## Contributing
 
 We welcome contributions! Please follow these steps to contribute:
@@ -130,14 +126,15 @@ We welcome contributions! Please follow these steps to contribute:
 
 - Thanks to all contributors and users for their support.
 
+  
+![2024-10-13 (1)](https://github.com/user-attachments/assets/308239e0-6a41-401d-9b65-aa0099348118)
 
-![2024-10-08 (2)](https://github.com/user-attachments/assets/df2c8af4-e09a-4127-bbaf-7f588651deaf)
-![2024-10-08 (1)](https://github.com/user-attachments/assets/a69f66e1-5c96-4f85-a697-2c703ad3d68b)
-![2024-10-08 (4)](https://github.com/user-attachments/assets/bf98f60a-6861-4bbf-bef8-7ee7d71ed356)
-![2024-10-08 (3)](https://github.com/user-attachments/assets/f3ddfc5b-fc78-44e1-bc74-e07abe55c885)
+![2024-10-13 (2)](https://github.com/user-attachments/assets/a87d35b0-5092-4a18-ba88-af97a7a5c115)
+![2024-10-13 (4)](https://github.com/user-attachments/assets/5a87b1c0-9aa7-4dc8-a8a3-0e31ae583f05)
 
 
 
-https://github.com/user-attachments/assets/52dc6508-2b28-4772-9002-7409f853ab70
+https://github.com/user-attachments/assets/5e63f472-679f-45b2-b830-35520ca8a01f
+
 
 >>>>>>> 1b346027f2c3c48df58848b560bf4678d5ada26e
